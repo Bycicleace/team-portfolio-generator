@@ -1,12 +1,12 @@
-const Employee = require("../lib/Employee.js");
+const Intern = require("../lib/Intern.js");
 
 test("Create an Intern object", () => {
     const intern = new Intern("Dave",1,"dave@gmail.com","Stanford University");
 
-    expect(this.name).toBe("Dave");
-    expect(this.id).toBe(1);
-    expect(this.email).toBe("dave@gmail.com");
-    expect(this.school).toBe("Stanford University");
+    expect(intern.name).toBe("Dave");
+    expect(intern.id).toBe(1);
+    expect(intern.email).toBe("dave@gmail.com");
+    expect(intern.school).toBe("Stanford University");
 })
 
 test("getName returns name", () => {
