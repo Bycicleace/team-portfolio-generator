@@ -1,6 +1,7 @@
 const Prompts = require("./lib/Prompts.js");
-const HTML = require("./lib/HTML.js");
 
+// Create new prompts object
 const prompts = new Prompts();
 
+// Start the prompts, which then ends with the HTML page generation
 prompts.startPrompts()
