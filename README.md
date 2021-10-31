@@ -32,4 +32,4 @@ Elliott Kvamme, 2021
 
 
 ## Instructional Video
-See an instructional video [here](https://youtu.be/TEcyX3jqrXI)
+See an instructional video [here](https://youtu.be/GhXZ2R_9H5k)
